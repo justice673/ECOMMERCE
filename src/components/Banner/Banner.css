@@ -1,0 +1,23 @@
+.banner{
+    background-color: blueviolet;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-position: center;
+    background-size: cover;
+}
+.about{
+    background-image: url(../../images/logo512.png);
+    color: black;
+}
+.contact{
+    background-image: url(../../images/img1.jpg);
+    color: black;
+}
+.register{
+    background-image: url(../../images/img2.jpg);
+    color: black;
+}

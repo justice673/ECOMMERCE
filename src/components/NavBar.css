@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 2em;
+    justify-content: center;
+}
+nav ul a{
+        color: white;
+        text-decoration: none;
+    }
+nav{
+    background-color: black;
+    padding: 1em
+}
+nav ul:hover{
+    cursor: pointer;
+}
